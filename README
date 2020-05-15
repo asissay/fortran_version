@@ -1,0 +1,6 @@
+A FORTRAN file that can solve the time dependent Schrodinger equation
+(TDSE) using restricted time dependent Hartree Fock approach
+(TDHF). This test code has time propagated in imaginary time to check
+to see if it works for actual RT-TDDFT calculations involving large
+systems. Some of the matrices are generated from NWchem calculation.
+
